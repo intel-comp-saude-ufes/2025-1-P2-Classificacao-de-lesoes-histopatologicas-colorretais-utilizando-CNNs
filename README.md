@@ -6,7 +6,7 @@ Este estudo apresenta o desenvolvimento e a avaliação de um pipeline focado na
 
 Vídeo da apresentação do trabalho: 
 
-O artigo completo pode ser encontrado no arquivo `Classificação de Lesões Histopatológicas Colorretais Utilizando CNNS.pdf`, presente no repositório, ou pelo link a seguir:
+O artigo completo pode ser encontrado no arquivo `Classificação de Lesões Histopatológicas Colorretais Utilizando CNNS.pdf`, presente no repositório, ou pelo link a seguir: https://drive.google.com/file/d/1BDhrf9lpXj7ANGhh8Okk0065XQqHLWTi/view?usp=sharing
 
 ## Objetivos
 
