@@ -51,7 +51,7 @@ O pipeline implementado no notebook `Trab2_IntelCompSaúde_Classificacao_MHIST.i
 
 ## Resultados
 
-* O melhor modelo individual foi a **ResNet50**, que alcançou uma **acurácia de 85%** e **AUC de 91.1%, embora apresentou sinais de ovefitting**.
+* O melhor modelo individual foi a **ResNet50**, que alcançou uma **acurácia de 85%** e **AUC de 91.31%, embora apresentou sinais de ovefitting**.
 * A abordagem de **ensemble**, utilizando *softmax* ponderado dos modelos, superou o desempenho individual, atingindo **86% de acurácia** e **AUC de 93.12%**.
 * Os resultados demonstram a eficácia das CNNs e do *transfer learning* na classificação de imagens histopatológicas, com desempenho comparável a outros trabalhos na literatura.
 
