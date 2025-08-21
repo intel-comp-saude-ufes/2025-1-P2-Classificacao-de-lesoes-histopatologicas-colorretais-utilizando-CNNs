@@ -4,7 +4,7 @@
 
 Este estudo apresenta o desenvolvimento e a avaliação de um pipeline focado na classificação de lesões em imagens histopatológicas utilizando Redes Neurais Convolucionais (CNNs). O objetivo principal é explorar e comparar o desempenho de diferentes arquiteturas de CNN para classificar corretamente imagens de pólipos colorretais, diferenciando entre lesões benignas (hiperplásicos - HP) e pré-cancerosas (adenomas serrilhados sésseis - SSA).
 
-Vídeo da apresentação do trabalho: 
+Vídeo da apresentação do trabalho: https://drive.google.com/file/d/1d761yGlhxYN1O-RECiJLWYD6Rlrj1l5v/view?usp=sharing
 
 O artigo completo pode ser encontrado no arquivo `Classificação de Lesões Histopatológicas Colorretais Utilizando CNNS.pdf`, presente no repositório, ou pelo link a seguir: https://drive.google.com/file/d/1BDhrf9lpXj7ANGhh8Okk0065XQqHLWTi/view?usp=sharing
 
